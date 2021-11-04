@@ -16,7 +16,7 @@ To start the server, please run the following command:
 
 ## Usage
 
-Link to deployed application: 
+Link to deployed application: https://lit-caverns-54357.herokuapp.com/
 
 Photographs of application: 
 
